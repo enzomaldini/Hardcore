@@ -1,0 +1,81 @@
+body {
+  background-image: url("https://www.specialeventservice.de/templates/yootheme/cache/da/slider-ses-djeuipment_pioneer-prodj-mieten-da046922.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #cccccc;
+}
+h1 {
+  font-family: "Pirata One", cursive;
+  font-size: 52px;
+  color: rgb(126, 58, 90);
+  text-align: center;
+  text-shadow: 4px 4px 13px rgba(66, 68, 90, 1);
+}
+h2 {
+  font-family: "Pirata One", cursive;
+  text-align: center;
+  color: rgb(25, 140, 234);
+  font-size: 33px;
+  text-shadow: 4px 4px 13px rgba(66, 68, 90, 1);
+}
+div {
+  color: whitesmoke;
+  font-family: "Pirata One", cursive;
+  font-size: 20px;
+  color: whitesmoke;
+}
+
+/* verlinkung zu weiteren Seiten */
+nav.music a {
+  color: black;
+  background-color: white;
+  border-radius: 6px;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 10px 15px;
+  margin: 3px;
+}
+nav.music a:hover {
+  color: white;
+  background-color: rgb(222, 25, 25);
+}
+
+/* teil eins */
+.first {
+  border: 3px solid whitesmoke;
+  border-radius: 15px;
+  margin: 20px;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-family: fantasy;
+  font-size: 20px;
+  color: whitesmoke;
+  text-shadow: 4px 4px 13px rgba(66, 68, 90, 1);
+}
+
+/* teil zwei*/
+
+.second {
+  border: 3px solid whitesmoke;
+  border-radius: 15px;
+  margin: 20px;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-family: fantasy;
+  font-size: 20px;
+  color: whitesmoke;
+  text-shadow: 4px 4px 13px rgba(66, 68, 90, 1);
+}
+
+.third {
+  border: 3px solid whitesmoke;
+  border-radius: 15px;
+  margin: 20px;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-family: fantasy;
+  font-size: 20px;
+  color: whitesmoke;
+  text-shadow: 4px 4px 13px rgba(66, 68, 90, 1);
+}

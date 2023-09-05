@@ -1,0 +1,52 @@
+body {
+  background-image: url("https://wallpaperaccess.com/full/2639804.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #cccccc;
+}
+h1 {
+  font-family: "Pirata One", cursive;
+  font-size: 52px;
+  color: whitesmoke;
+  text-align: center;
+  text-shadow: 4px 4px 13px rgba(66, 68, 90, 1);
+}
+/* borderline */
+nav.music a {
+  color: black;
+  background-color: white;
+  border-radius: 6px;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 10px 15px;
+  margin: 3px;
+}
+nav.music a:hover {
+  color: white;
+  background-color: rgb(222, 25, 25);
+}
+h2 {
+  font-size: 33px;
+  color: whitesmoke;
+  font-family: "Pirata One", cursive;
+  text-align: center;
+  text-shadow: 4px 4px 13px rgba(66, 68, 90, 1);
+}
+p {
+  font-size: 25px;
+  color: whitesmoke;
+  font-family: "Pirata One", cursive;
+  border: 3px solid white;
+  border-radius: 15px;
+  margin: 20px;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.4);
+  text-shadow: 4px 4px 13px rgba(66, 68, 90, 1);
+}
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
